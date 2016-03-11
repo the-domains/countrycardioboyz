@@ -1,7 +1,7 @@
 name: CountryCardioBoyz
 favicon: null
-layout_spectrum: 0.00468115764670074
-typography_spectrum: 0.2250192458741367
+layout_spectrum: 0.99593
+typography_spectrum: 0.24309
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#090a0a'
+    - '#cbedef'
+    - '#74897e'
+    - '#8f1a0f'
+    - '#744f31'
   brandStrength: 0.8613396254368126
   lightness: 0.807994820876047
   saturation: 0.1776384529657662
